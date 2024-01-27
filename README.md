@@ -93,3 +93,19 @@
 5. 브랜치에서 작업
 6. 커밋 규칙과 컨벤션에 따라 커밋 메시지 작성
 7. PR
+
+## 스크린 샷
+
+<details>
+<summary>이미지</summary>
+ <div align=center>
+  <img alt="logo" width="600" src="https://raw.githubusercontent.com/pozafly/surviving-developer/main/src/assets/images/gif/router.gif">
+  <br />
+  <img alt="logo" width="600" src="https://raw.githubusercontent.com/pozafly/surviving-developer/main/src/assets/images/gif/router2.gif">
+  <br />
+  <img alt="logo" width="600" src="https://raw.githubusercontent.com/pozafly/surviving-developer/main/src/assets/images/gif/질문_생성_및_답변_저장.gif">
+  <br />
+  <img alt="logo" width="600" src="https://raw.githubusercontent.com/pozafly/surviving-developer/main/src/assets/images/gif/질문_필터링_및_답변_모달_보기_삭제.gif">
+  <br />
+ </div>
+</details>
